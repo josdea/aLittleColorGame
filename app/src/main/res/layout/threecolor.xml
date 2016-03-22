@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="horizontal" android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:id="@+id/row1">
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="New Button"
+                android:id="@+id/but11"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="New Button"
+                android:id="@+id/but12"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="New Button"
+                android:id="@+id/but13"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="New Button"
+                android:id="@+id/but14"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material"
+                android:allowUndo="false"
+                android:enabled="false" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal" android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:id="@+id/row2">
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="New Button 4"
+                android:id="@+id/but21"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="New Button"
+                android:id="@+id/but22"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="New Button"
+                android:id="@+id/but23"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="New Button"
+                android:id="@+id/but24"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal" android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:id="@+id/row3">
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="New Button"
+                android:id="@+id/but31"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="New Button"
+                android:id="@+id/but32"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="New Button"
+                android:id="@+id/but33"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="New Button"
+                android:id="@+id/but34"
+                android:layout_weight="1"
+                android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal" android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:id="@+id/row4">
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="New Button"
+            android:id="@+id/but41"
+            android:layout_weight="1"
+            android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="New Button"
+            android:id="@+id/but42"
+            android:layout_weight="1"
+            android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="New Button"
+            android:id="@+id/but43"
+            android:layout_weight="1"
+            android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="New Button"
+            android:id="@+id/but44"
+            android:layout_weight="1"
+            android:layout_margin="@dimen/abc_action_bar_overflow_padding_end_material" />
+
+
+    </LinearLayout>
+    </LinearLayout>
+
+
+
+
+
